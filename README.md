@@ -20,7 +20,7 @@ Este repositório contém os scripts SQL desenvolvidos para a **Experiência Pr�
 
 ## 🗂 Modelo Lógico (DER)
 
-Inclua aqui a imagem do DER exportada do MySQL Workbench.
+![Diagrama DER](images/der.png)
 
 ---
 
