@@ -43,4 +43,4 @@ Inclua aqui a imagem do DER exportada do MySQL Workbench.
 
 ## ✨ Autor
 
-Projeto desenvolvido para a disciplina de Banco de Dados – EP IV.
+Projeto desenvolvido por Mykoll para a disciplina de Banco de Dados – EP IV.
